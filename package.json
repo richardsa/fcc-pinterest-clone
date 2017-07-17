@@ -21,6 +21,10 @@
   "scripts": {
   "start": "node server.js"
   },
+  "engines": {
+    "node": "4.8.4"
+  },
+
   "author": "Blake Johnston",
   "license": "MIT",
   "dependencies": {
